@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Measurement files
+/COC
+/PLA
+/Python
+/8.FillPattern
